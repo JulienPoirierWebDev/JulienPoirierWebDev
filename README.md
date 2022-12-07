@@ -11,7 +11,7 @@ As a junior, I work on my skills to become a better dev every day !
 - Become fluent in TDD, Typescript and other stuffs.
 - Create a lot of ressources to learn fundamentals of HTML / CSS / JS with step by step projects. 
 
-I'm available for freelancing ! If you seek someone for employee contract, feel free to contact my anyway, maybe we will match !
+## I'm available for freelancing ! If you seek someone for employee contract, feel free to contact my anyway, maybe we will match !
 
 
 <!--
